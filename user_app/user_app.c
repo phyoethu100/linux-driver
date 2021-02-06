@@ -1,11 +1,4 @@
 /**************************************************************
-* Class:  CSC-415-01 Fall 2020
-* Name: Phyoe Thu
-* Student ID: 918656575
-* Project: Assignment 6 - Device Driver
-*
-* File: user_app.c
-*
 * Description: This program is a simple user application for the 
 * calculator driver.
 **************************************************************/
